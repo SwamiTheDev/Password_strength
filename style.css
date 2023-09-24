@@ -16,7 +16,7 @@ body {
 
 .container {
   position: relative;
- width: 80%;
+ width: 80% !important;
   border-radius: 20px 20px 0 0;
   padding: 50px;
   background: #333;
